@@ -1,0 +1,28 @@
+{
+  "name": "pss-a50-voice-library",
+  "version": "1.0.0",
+  "description": "Yamaha PSS-A50电子琴音色库展示页面",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/pss-a50-voice-library.git"
+  },
+  "keywords": [
+    "yamaha",
+    "pss-a50",
+    "voice-library",
+    "synthesizer",
+    "音色库",
+    "电子琴"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "homepage": "https://your-username.github.io/pss-a50-voice-library/",
+  "bugs": {
+    "url": "https://github.com/your-username/pss-a50-voice-library/issues"
+  }
+}
